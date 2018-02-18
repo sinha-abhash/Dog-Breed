@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="47ff9b5a-026a-4fb5-a5ed-92b892047c03" name="dog_breed" url="http://213.32.247.222">
+        <fileTransfer host="213.32.247.222" port="22" rootFolder="/home/kl_team" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
